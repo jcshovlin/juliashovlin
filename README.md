@@ -16,6 +16,6 @@
 
 </body>
 
-<p style="text-align: center;"><a href="https://www.nordstrom.com/corp/default.htm">Click Here to go to my favorite site!</a></p>
+<p style="text-align: center;"><a href="https://www.nordstrom.com /corp/default.htm">Click Here to go to my favorite site!</a></p>
 <hr />
 </html>
