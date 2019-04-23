@@ -16,6 +16,6 @@
 
 </body>
 
-<p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Here</a> to go to my favorite site</p>
+<p style="text-align: center;"><a href="https://www.kodak.com/corp/default.htm">Click Herto go to my favorite sitee</a></p>
 <hr />
 </html>
