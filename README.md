@@ -9,7 +9,6 @@
 <h1 style="text-align: center;">My name is Julia Shovlin, welcome to my site!</h1>
 
 <h2 style="text-align: center;">About Me</h2>
-<p><strong>About Me</strong></p>
 
 <body bgcolor="grey"> 
 
