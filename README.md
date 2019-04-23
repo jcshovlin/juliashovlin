@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
+<body style="background-color:purple;"> 
 # juliashovlin
 <p>&nbsp;</p>
-<body bgcolor="grey"> 
-
+  
 
 <center><img src="34F83380-19FB-4A74-A63C-B3532414AE13.jpg" width="265" height="470" align="BOTTOM" /></center><hr />
 
